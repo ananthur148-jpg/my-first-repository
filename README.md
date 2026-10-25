@@ -140,3 +140,12 @@ This project demonstrates how Python-based analytics and machine learning can su
 Ananthur
 
 GitHub: [ananthur148-jpg](https://github.com/ananthur148-jpg)
+
+
+ Management Recommendations
+
+1. *Improve demand forecasting:* Units Sold has the highest feature-importance score (approximately 85.2%). Use demand forecasts to plan inventory.
+
+2. *Optimize advertising:* Advertising Spend has a feature-importance score (approximately 7.6%). Compare marketing costs with revenue before adjusting budgets.
+
+3. *Improve inventory planning:* Monitors have higher average stock availability than laptops in the analysis. Review demand forecasts and stock levels to balance inventory.
